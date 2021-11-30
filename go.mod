@@ -1,4 +1,4 @@
-module github.com/mwath/acmerelay
+module github.com/dodobox-s-team/acmerelay-provider
 
 go 1.16
 
